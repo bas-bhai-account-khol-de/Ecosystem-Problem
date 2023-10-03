@@ -16,6 +16,7 @@ for i in organismInput.plant_list:
 combinations_list = list(combinations(organismInput.org_list, organismInput.number_of_animals_to_be_selected))
 
 # print((combinations_list))
+working_combo = []
 
 def findEco():
     for index,com in enumerate(combinations_list):
@@ -55,13 +56,20 @@ def findEco():
                 continue
         if(satisfied):
             print("found Combination -----------------====================")
+            temp = []
             for org in com:
                 print(org.name)
+                temp.append(org.name)
+            working_combo.append(temp)
+            
             print("retuned Combination -----------------====================")
-            break # remove this if want multiple answers
+            # break # remove this if want multiple answers
         
 findEco()
 
+with open("output.txt", "w") as txt_file:
+    for line in working_combo:
+        txt_file.write(" ".join(line) + "\n")
 
             
 
