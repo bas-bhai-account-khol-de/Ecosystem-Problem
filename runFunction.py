@@ -58,7 +58,7 @@ def findEco():
             for org in com:
                 print(org.name)
             print("retuned Combination -----------------====================")
-            break
+            break # remove this if want multiple answers
         
 findEco()
 

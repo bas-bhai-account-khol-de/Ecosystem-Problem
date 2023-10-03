@@ -25,6 +25,7 @@ plant_list=[
     o(Java,0,5730),
 ]
 
+# name , needed , provided , food
 org_list=[
     o(BlueTang,1770,3770,[JapneseSpider,GiantTigerPrawn,BullShark,NorthenPike,Guppy,GultStur,Orca]),
     o(BullShark,1870,1100,[hornwort,Java]),
