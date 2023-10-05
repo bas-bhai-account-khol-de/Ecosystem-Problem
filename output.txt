@@ -1,81 +1,81 @@
-BlueTang BullShark GiantTigerPrawn GultStur Guppy Coral hornwort Java
-BlueTang BullShark GiantTigerPrawn GultStur JapneseSpider Coral hornwort Java
-BlueTang BullShark GiantTigerPrawn GultStur NorthenPike Coral hornwort Java
-BlueTang BullShark GiantTigerPrawn GultStur Orca Coral hornwort Java
-BlueTang BullShark GiantTigerPrawn GultStur JellyFish Coral hornwort Java
-BlueTang BullShark GiantTigerPrawn Guppy JapneseSpider Coral hornwort Java
-BlueTang BullShark GiantTigerPrawn Guppy NorthenPike Coral hornwort Java
-BlueTang BullShark GiantTigerPrawn Guppy Orca Coral hornwort Java
-BlueTang BullShark GiantTigerPrawn JapneseSpider NorthenPike Coral hornwort Java
-BlueTang BullShark GiantTigerPrawn JapneseSpider Orca Coral hornwort Java
-BlueTang BullShark GiantTigerPrawn NorthenPike Orca Coral hornwort Java
-BlueTang BullShark GultStur Guppy JapneseSpider Coral hornwort Java
-BlueTang BullShark GultStur Guppy NorthenPike Coral hornwort Java
-BlueTang BullShark GultStur Guppy Orca Coral hornwort Java
-BlueTang BullShark GultStur Guppy JellyFish Coral hornwort Java
-BlueTang BullShark GultStur JapneseSpider NorthenPike Coral hornwort Java
-BlueTang BullShark GultStur JapneseSpider Orca Coral hornwort Java
-BlueTang BullShark GultStur NorthenPike Orca Coral hornwort Java
-BlueTang BullShark Guppy JapneseSpider NorthenPike Coral hornwort Java
-BlueTang BullShark Guppy JapneseSpider Orca Coral hornwort Java
-BlueTang BullShark Guppy NorthenPike Orca Coral hornwort Java
-BlueTang BullShark JapneseSpider NorthenPike Orca Coral hornwort Java
-BlueTang GiantTigerPrawn GultStur Guppy JapneseSpider Coral hornwort Java
-BlueTang GiantTigerPrawn GultStur Guppy NorthenPike Coral hornwort Java
-BlueTang GiantTigerPrawn GultStur Guppy Orca Coral hornwort Java
-BlueTang GiantTigerPrawn GultStur JapneseSpider NorthenPike Coral hornwort Java
-BlueTang GiantTigerPrawn GultStur JapneseSpider Orca Coral hornwort Java
-BlueTang GiantTigerPrawn GultStur NorthenPike Orca Coral hornwort Java
-BlueTang GiantTigerPrawn Guppy JapneseSpider NorthenPike Coral hornwort Java
-BlueTang GiantTigerPrawn Guppy JapneseSpider Orca Coral hornwort Java
-BlueTang GiantTigerPrawn Guppy NorthenPike Orca Coral hornwort Java
-BlueTang GiantTigerPrawn JapneseSpider NorthenPike Orca Coral hornwort Java
-BlueTang GultStur Guppy JapneseSpider NorthenPike Coral hornwort Java
-BlueTang GultStur Guppy JapneseSpider Orca Coral hornwort Java
-BlueTang GultStur Guppy NorthenPike Orca Coral hornwort Java
-BlueTang GultStur JapneseSpider NorthenPike Orca Coral hornwort Java
-BlueTang Guppy JapneseSpider NorthenPike Orca Coral hornwort Java
-BullShark GiantTigerPrawn GultStur Guppy JapneseSpider Coral hornwort Java
-BullShark GiantTigerPrawn GultStur Guppy NorthenPike Coral hornwort Java
-BullShark GiantTigerPrawn GultStur Guppy Orca Coral hornwort Java
-BullShark GiantTigerPrawn GultStur Guppy JellyFish Coral hornwort Java
-BullShark GiantTigerPrawn GultStur JapneseSpider NorthenPike Coral hornwort Java
-BullShark GiantTigerPrawn GultStur JapneseSpider Orca Coral hornwort Java
-BullShark GiantTigerPrawn GultStur JapneseSpider RainbowTrout Coral hornwort Java
-BullShark GiantTigerPrawn GultStur NorthenPike Orca Coral hornwort Java
-BullShark GiantTigerPrawn GultStur NorthenPike JellyFish Coral hornwort Java
-BullShark GiantTigerPrawn GultStur Orca JellyFish Coral hornwort Java
-BullShark GiantTigerPrawn Guppy JapneseSpider NorthenPike Coral hornwort Java
-BullShark GiantTigerPrawn Guppy JapneseSpider Orca Coral hornwort Java
-BullShark GiantTigerPrawn Guppy JapneseSpider RainbowTrout Coral hornwort Java
-BullShark GiantTigerPrawn Guppy NorthenPike Orca Coral hornwort Java
-BullShark GiantTigerPrawn JapneseSpider NorthenPike Orca Coral hornwort Java
-BullShark GiantTigerPrawn JapneseSpider NorthenPike RainbowTrout Coral hornwort Java
-BullShark GiantTigerPrawn JapneseSpider Orca RainbowTrout Coral hornwort Java
-BullShark GultStur Guppy JapneseSpider NorthenPike Coral hornwort Java
-BullShark GultStur Guppy JapneseSpider Orca Coral hornwort Java
-BullShark GultStur Guppy JapneseSpider RainbowTrout Coral hornwort Java
-BullShark GultStur Guppy NorthenPike Orca Coral hornwort Java
-BullShark GultStur JapneseSpider NorthenPike Orca Coral hornwort Java
-BullShark GultStur JapneseSpider NorthenPike RainbowTrout Coral hornwort Java
-BullShark GultStur JapneseSpider Orca RainbowTrout Coral hornwort Java
-BullShark Guppy JapneseSpider NorthenPike Orca Coral hornwort Java
-BullShark Guppy JapneseSpider NorthenPike RainbowTrout Coral hornwort Java
-BullShark Guppy JapneseSpider Orca RainbowTrout Coral hornwort Java
-BullShark JapneseSpider NorthenPike Orca RainbowTrout Coral hornwort Java
-GiantTigerPrawn GultStur Guppy JapneseSpider NorthenPike Coral hornwort Java
-GiantTigerPrawn GultStur Guppy JapneseSpider Orca Coral hornwort Java
-GiantTigerPrawn GultStur Guppy JapneseSpider RainbowTrout Coral hornwort Java
-GiantTigerPrawn GultStur Guppy NorthenPike Orca Coral hornwort Java
-GiantTigerPrawn GultStur JapneseSpider NorthenPike Orca Coral hornwort Java
-GiantTigerPrawn GultStur JapneseSpider NorthenPike RainbowTrout Coral hornwort Java
-GiantTigerPrawn GultStur JapneseSpider Orca RainbowTrout Coral hornwort Java
-GiantTigerPrawn Guppy JapneseSpider NorthenPike Orca Coral hornwort Java
-GiantTigerPrawn Guppy JapneseSpider NorthenPike RainbowTrout Coral hornwort Java
-GiantTigerPrawn Guppy JapneseSpider Orca RainbowTrout Coral hornwort Java
-GiantTigerPrawn JapneseSpider NorthenPike Orca RainbowTrout Coral hornwort Java
-GultStur Guppy JapneseSpider NorthenPike Orca Coral hornwort Java
-GultStur Guppy JapneseSpider NorthenPike RainbowTrout Coral hornwort Java
-GultStur Guppy JapneseSpider Orca RainbowTrout Coral hornwort Java
-GultStur JapneseSpider NorthenPike Orca RainbowTrout Coral hornwort Java
-Guppy JapneseSpider NorthenPike Orca RainbowTrout Coral hornwort Java
+0,BlueTang,BullShark,GiantTigerPrawn,GultStur,Guppy,Coral,hornwort,Java
+1,BlueTang,BullShark,GiantTigerPrawn,GultStur,JapneseSpider,Coral,hornwort,Java
+2,BlueTang,BullShark,GiantTigerPrawn,GultStur,NorthenPike,Coral,hornwort,Java
+3,BlueTang,BullShark,GiantTigerPrawn,GultStur,Orca,Coral,hornwort,Java
+5,BlueTang,BullShark,GiantTigerPrawn,GultStur,JellyFish,Coral,hornwort,Java
+6,BlueTang,BullShark,GiantTigerPrawn,Guppy,JapneseSpider,Coral,hornwort,Java
+7,BlueTang,BullShark,GiantTigerPrawn,Guppy,NorthenPike,Coral,hornwort,Java
+8,BlueTang,BullShark,GiantTigerPrawn,Guppy,Orca,Coral,hornwort,Java
+11,BlueTang,BullShark,GiantTigerPrawn,JapneseSpider,NorthenPike,Coral,hornwort,Java
+12,BlueTang,BullShark,GiantTigerPrawn,JapneseSpider,Orca,Coral,hornwort,Java
+15,BlueTang,BullShark,GiantTigerPrawn,NorthenPike,Orca,Coral,hornwort,Java
+21,BlueTang,BullShark,GultStur,Guppy,JapneseSpider,Coral,hornwort,Java
+22,BlueTang,BullShark,GultStur,Guppy,NorthenPike,Coral,hornwort,Java
+23,BlueTang,BullShark,GultStur,Guppy,Orca,Coral,hornwort,Java
+25,BlueTang,BullShark,GultStur,Guppy,JellyFish,Coral,hornwort,Java
+26,BlueTang,BullShark,GultStur,JapneseSpider,NorthenPike,Coral,hornwort,Java
+27,BlueTang,BullShark,GultStur,JapneseSpider,Orca,Coral,hornwort,Java
+30,BlueTang,BullShark,GultStur,NorthenPike,Orca,Coral,hornwort,Java
+36,BlueTang,BullShark,Guppy,JapneseSpider,NorthenPike,Coral,hornwort,Java
+37,BlueTang,BullShark,Guppy,JapneseSpider,Orca,Coral,hornwort,Java
+40,BlueTang,BullShark,Guppy,NorthenPike,Orca,Coral,hornwort,Java
+46,BlueTang,BullShark,JapneseSpider,NorthenPike,Orca,Coral,hornwort,Java
+56,BlueTang,GiantTigerPrawn,GultStur,Guppy,JapneseSpider,Coral,hornwort,Java
+57,BlueTang,GiantTigerPrawn,GultStur,Guppy,NorthenPike,Coral,hornwort,Java
+58,BlueTang,GiantTigerPrawn,GultStur,Guppy,Orca,Coral,hornwort,Java
+61,BlueTang,GiantTigerPrawn,GultStur,JapneseSpider,NorthenPike,Coral,hornwort,Java
+62,BlueTang,GiantTigerPrawn,GultStur,JapneseSpider,Orca,Coral,hornwort,Java
+65,BlueTang,GiantTigerPrawn,GultStur,NorthenPike,Orca,Coral,hornwort,Java
+71,BlueTang,GiantTigerPrawn,Guppy,JapneseSpider,NorthenPike,Coral,hornwort,Java
+72,BlueTang,GiantTigerPrawn,Guppy,JapneseSpider,Orca,Coral,hornwort,Java
+75,BlueTang,GiantTigerPrawn,Guppy,NorthenPike,Orca,Coral,hornwort,Java
+81,BlueTang,GiantTigerPrawn,JapneseSpider,NorthenPike,Orca,Coral,hornwort,Java
+91,BlueTang,GultStur,Guppy,JapneseSpider,NorthenPike,Coral,hornwort,Java
+92,BlueTang,GultStur,Guppy,JapneseSpider,Orca,Coral,hornwort,Java
+95,BlueTang,GultStur,Guppy,NorthenPike,Orca,Coral,hornwort,Java
+101,BlueTang,GultStur,JapneseSpider,NorthenPike,Orca,Coral,hornwort,Java
+111,BlueTang,Guppy,JapneseSpider,NorthenPike,Orca,Coral,hornwort,Java
+126,BullShark,GiantTigerPrawn,GultStur,Guppy,JapneseSpider,Coral,hornwort,Java
+127,BullShark,GiantTigerPrawn,GultStur,Guppy,NorthenPike,Coral,hornwort,Java
+128,BullShark,GiantTigerPrawn,GultStur,Guppy,Orca,Coral,hornwort,Java
+130,BullShark,GiantTigerPrawn,GultStur,Guppy,JellyFish,Coral,hornwort,Java
+131,BullShark,GiantTigerPrawn,GultStur,JapneseSpider,NorthenPike,Coral,hornwort,Java
+132,BullShark,GiantTigerPrawn,GultStur,JapneseSpider,Orca,Coral,hornwort,Java
+133,BullShark,GiantTigerPrawn,GultStur,JapneseSpider,RainbowTrout,Coral,hornwort,Java
+135,BullShark,GiantTigerPrawn,GultStur,NorthenPike,Orca,Coral,hornwort,Java
+137,BullShark,GiantTigerPrawn,GultStur,NorthenPike,JellyFish,Coral,hornwort,Java
+139,BullShark,GiantTigerPrawn,GultStur,Orca,JellyFish,Coral,hornwort,Java
+141,BullShark,GiantTigerPrawn,Guppy,JapneseSpider,NorthenPike,Coral,hornwort,Java
+142,BullShark,GiantTigerPrawn,Guppy,JapneseSpider,Orca,Coral,hornwort,Java
+143,BullShark,GiantTigerPrawn,Guppy,JapneseSpider,RainbowTrout,Coral,hornwort,Java
+145,BullShark,GiantTigerPrawn,Guppy,NorthenPike,Orca,Coral,hornwort,Java
+151,BullShark,GiantTigerPrawn,JapneseSpider,NorthenPike,Orca,Coral,hornwort,Java
+152,BullShark,GiantTigerPrawn,JapneseSpider,NorthenPike,RainbowTrout,Coral,hornwort,Java
+154,BullShark,GiantTigerPrawn,JapneseSpider,Orca,RainbowTrout,Coral,hornwort,Java
+161,BullShark,GultStur,Guppy,JapneseSpider,NorthenPike,Coral,hornwort,Java
+162,BullShark,GultStur,Guppy,JapneseSpider,Orca,Coral,hornwort,Java
+163,BullShark,GultStur,Guppy,JapneseSpider,RainbowTrout,Coral,hornwort,Java
+165,BullShark,GultStur,Guppy,NorthenPike,Orca,Coral,hornwort,Java
+171,BullShark,GultStur,JapneseSpider,NorthenPike,Orca,Coral,hornwort,Java
+172,BullShark,GultStur,JapneseSpider,NorthenPike,RainbowTrout,Coral,hornwort,Java
+174,BullShark,GultStur,JapneseSpider,Orca,RainbowTrout,Coral,hornwort,Java
+181,BullShark,Guppy,JapneseSpider,NorthenPike,Orca,Coral,hornwort,Java
+182,BullShark,Guppy,JapneseSpider,NorthenPike,RainbowTrout,Coral,hornwort,Java
+184,BullShark,Guppy,JapneseSpider,Orca,RainbowTrout,Coral,hornwort,Java
+191,BullShark,JapneseSpider,NorthenPike,Orca,RainbowTrout,Coral,hornwort,Java
+196,GiantTigerPrawn,GultStur,Guppy,JapneseSpider,NorthenPike,Coral,hornwort,Java
+197,GiantTigerPrawn,GultStur,Guppy,JapneseSpider,Orca,Coral,hornwort,Java
+198,GiantTigerPrawn,GultStur,Guppy,JapneseSpider,RainbowTrout,Coral,hornwort,Java
+200,GiantTigerPrawn,GultStur,Guppy,NorthenPike,Orca,Coral,hornwort,Java
+206,GiantTigerPrawn,GultStur,JapneseSpider,NorthenPike,Orca,Coral,hornwort,Java
+207,GiantTigerPrawn,GultStur,JapneseSpider,NorthenPike,RainbowTrout,Coral,hornwort,Java
+209,GiantTigerPrawn,GultStur,JapneseSpider,Orca,RainbowTrout,Coral,hornwort,Java
+216,GiantTigerPrawn,Guppy,JapneseSpider,NorthenPike,Orca,Coral,hornwort,Java
+217,GiantTigerPrawn,Guppy,JapneseSpider,NorthenPike,RainbowTrout,Coral,hornwort,Java
+219,GiantTigerPrawn,Guppy,JapneseSpider,Orca,RainbowTrout,Coral,hornwort,Java
+226,GiantTigerPrawn,JapneseSpider,NorthenPike,Orca,RainbowTrout,Coral,hornwort,Java
+231,GultStur,Guppy,JapneseSpider,NorthenPike,Orca,Coral,hornwort,Java
+232,GultStur,Guppy,JapneseSpider,NorthenPike,RainbowTrout,Coral,hornwort,Java
+234,GultStur,Guppy,JapneseSpider,Orca,RainbowTrout,Coral,hornwort,Java
+241,GultStur,JapneseSpider,NorthenPike,Orca,RainbowTrout,Coral,hornwort,Java
+246,Guppy,JapneseSpider,NorthenPike,Orca,RainbowTrout,Coral,hornwort,Java

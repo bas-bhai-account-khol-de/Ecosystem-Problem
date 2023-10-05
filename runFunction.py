@@ -56,7 +56,7 @@ def findEco():
                 continue
         if(satisfied):
             print("found Combination -----------------====================")
-            temp = []
+            temp = [str(index)]
             for org in com:
                 print(org.name)
                 temp.append(org.name)
@@ -69,7 +69,7 @@ findEco()
 
 with open("output.txt", "w") as txt_file:
     for line in working_combo:
-        txt_file.write(" ".join(line) + "\n")
+        txt_file.write(",".join(line) + "\n")
 
             
 
